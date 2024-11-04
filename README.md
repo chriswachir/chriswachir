@@ -56,6 +56,6 @@ I'm a **Data Engineer** and **Data Scientist** passionate about transforming raw
 
 ### 📫 Let’s Connect
 - **Email:** [chriswachira873@gmail.com](mailto:christopher.wachira@cellulant.io)
-- **LinkedIn:** [linkedin.com/in/christopherwachira](https://www.linkedin.com/in/christopherwachira)
+- **LinkedIn:** [linkedin.com/in/christopherwachira](https://www.linkedin.com/in/christopher-wachira-7bb9b11b1/)
 
 Feel free to check out my repositories for some of my work on data engineering solutions, automation, and analytics!
